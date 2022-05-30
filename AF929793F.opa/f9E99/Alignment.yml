@@ -1,0 +1,31 @@
+segment_sources:
+  I050C6C73:
+    type: origin_type
+    relation: translation
+    language: en
+  IAF313EDC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  3b8c266cd3814e85a6a94a505fd9e558:
+    I050C6C73: c20f31f009c94acc9423a942bb4c98f4
+    IAF313EDC: ba06266157394809b1faf2d22c7e39e6
+  dd4d1045f8ec4b1a99b902503ce2b68b:
+    I050C6C73: f58c7dbcf9fc4dc39a93c4eb409ad816
+    IAF313EDC: 9fad188b8dd94f92b0a7812da2052dad
+  f08255eaf28547f994355f3cb3936c0d:
+    I050C6C73: 3878352909cb4c018c6ed3dc27084e1a
+    IAF313EDC: 27b9ca0f7e79441ebe0dcde73b9d1fe0
+  125774911b694d1f93beb61efc5c6469:
+    I050C6C73: a2409eaaf8704a088c236f74c943559f
+    IAF313EDC: 1ae86e1e0ef54e04944c9ff02b8d6339
+  cc53cc0863a54e90945a326d09be4801:
+    I050C6C73: 56a29be495d34e5f8d156832a7461ad3
+    IAF313EDC: 2198c13017654b25a8d07d93044ecc8a
+  e263bd400fe14668a70bd742789cf6bf:
+    I050C6C73: eeac0a525f774021aad6952405b5309a
+    IAF313EDC: 334712f4209140bd92d4c592bcf38f07
+  79d4f0e133bd47459fd5ec24305f7d34:
+    I050C6C73: a1fa74aea3af4f3da6a2a0664aece292
+    IAF313EDC: 4f986faaf32d42dd90dacf492f3f06a9

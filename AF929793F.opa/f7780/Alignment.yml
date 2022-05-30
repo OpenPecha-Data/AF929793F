@@ -1,0 +1,19 @@
+segment_sources:
+  I050C6C73:
+    type: origin_type
+    relation: translation
+    language: en
+  IAF313EDC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  12e2fd3ade4c40ebadd7f8d6d66724b6:
+    I050C6C73: 701866d8a7904fdf85fb5dbe2b6ff9ef
+    IAF313EDC: 704455ec5ce24cc88386f72143762181
+  79cb714bfda348ca837659c1f1bd2f19:
+    I050C6C73: 49fd421432c94375a1a2722238c6d091
+    IAF313EDC: f1bba728f5a84488b98e2e5cc7c79842
+  0adb9e8bb6f74b2a8855b6cf95488d47:
+    I050C6C73: 3ec96dce584544c4bdc23f2c8c993727
+    IAF313EDC: 9e0a2db0580e431e94f72e1941011442
